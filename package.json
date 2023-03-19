@@ -1,0 +1,31 @@
+{
+  "name": "site_entrainement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "public/script.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "stripe": "^11.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "repository":{
+            "type": "git",
+            "url": "git+https://github.com/tumengcho/site_entrainement.git"
+        },
+        "author": "",
+        "license": "ISC",
+        "bugs": {
+            "url": "https://github.com/tumengcho/site_entrainement/issues"
+       },
+       "homepage": "https://github.com/tumengcho/site_entrainement#readme"
+  }
+
